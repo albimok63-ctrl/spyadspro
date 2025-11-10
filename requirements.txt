@@ -1,0 +1,10 @@
+fastapi==0.114.2
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.34
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.23.0
+openai==1.50.0
